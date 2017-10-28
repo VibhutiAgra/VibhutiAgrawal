@@ -10,3 +10,9 @@ What is open source standards?
 An open standard is a standard that is publicly available and has various rights to use associated with it, and may also have various properties of how it was designed (e.g. open process). There is no single definition and interpretations vary with usage.
 
 The terms open and standard have a wide range of meanings associated with their usage. There are a number of definitions of open standards which emphasize different aspects of openness, including the openness of the resulting specification, the openness of the drafting process, and the ownership of rights in the standard. The term "standard" is sometimes restricted to technologies approved by formalized committees that are open to participation by all interested parties and operate on a consensus basis.
+
+Properties of open source software
+Free redistribution
+Freely available source code
+license is technology neutral
+license is not specific to the product 
