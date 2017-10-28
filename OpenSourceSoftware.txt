@@ -5,3 +5,8 @@ Open source software is software with source code that anyone can inspect, modif
 
 What is open source initiative?
 The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.
+
+What is open source standards?
+An open standard is a standard that is publicly available and has various rights to use associated with it, and may also have various properties of how it was designed (e.g. open process). There is no single definition and interpretations vary with usage.
+
+The terms open and standard have a wide range of meanings associated with their usage. There are a number of definitions of open standards which emphasize different aspects of openness, including the openness of the resulting specification, the openness of the drafting process, and the ownership of rights in the standard. The term "standard" is sometimes restricted to technologies approved by formalized committees that are open to participation by all interested parties and operate on a consensus basis.
